@@ -27,7 +27,7 @@ const NavigationPC = (props) => {
             <div className='hidden sm:block'>
                 <nav className='flex bg-mine2 h-16  items-center justify-between  xl:px-60  md:px-30 ' >
                     <Typography variant='h4' sx={{color:'white'}} >
-                        Bytes&Beyond
+                        VlogVerse
                     </Typography>
                     <ul className='flex justify-between items-center  text-white'>
                         {isLogin && <><Button sx={{margin:1, fontSize: '15px', color: '#fff' }} LinkComponent={Link} to="/blogs" >

@@ -34,7 +34,7 @@ const NavigationPhone = (props) => {
             <nav className=' transition duration-1000 ease-in-out flex bg-mine2 h-16 justify-center items-center' >
                 <ul className='flex items-center  justify-between w-full text-white p-8'>
                     <li onClick={buttonHandelr}><i className="fa-solid fa-bars" style={{ color: "#ffffff", }}></i></li>
-                    <li className='grow text-center text-2xl'>Bytes&Beyond</li>
+                    <li className='grow text-center text-2xl'>VlogVerse</li>
                 </ul>
             </nav>
 
